@@ -1,6 +1,6 @@
 # Thesis
 
-### Bool Citations:
+### Book Citations:
 Roer, I., Woerden, J. van, &amp; Zemp, M. (2008). Global glacier changes: Facts and figures. United Nations Environment Programme (UNEP). 
 
 Knight, E. P. G. (2009). Glacier Science and Environmental Change. John Wiley &amp; Sons. 
