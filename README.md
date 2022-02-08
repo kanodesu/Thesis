@@ -17,3 +17,5 @@ Myers, M. (2013). Why jazz happened. University of California Press.
 
 Richard Whiddington. "With TOPTOY, MINISO Makes A Bid for the Art Toy Space." June 25,Available from https://jingculturecommerce.com/miniso-toptoy/. 
 
+Richard Whiddington. "How POP MART Dominated the Chinese Art Toy Market in 2020." April 8,Available from https://jingculturecommerce.com/pop-mart-2020-annual-report/.
+
