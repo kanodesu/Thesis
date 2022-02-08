@@ -26,3 +26,5 @@ The Editors of Jing Travel. "How POP MART is Taking Domestic Appeal Global." Sep
 
 Xiaohongshu. "Https://Mp.Weixin.Qq.Com/s/8Tko3o9Va2pnleE8t0T8pQ." Nov16,Available from https://mp.weixin.qq.com/s/8Tko3o9Va2pnleE8t0T8pQ.
 
+Chen, Xiaolin. Research on Blind Boxes Consumers---Taking Pop Mart as an Example. Atlantis Press, 2021.
+
