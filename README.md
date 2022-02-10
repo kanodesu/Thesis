@@ -1,4 +1,7 @@
 # Thesis
+Repo for MS Data Visualization, Parsons School of Design Thesis Project
+
+<br>
 
 ## Research Question:
 What is blind box, and why it goes viral? <br>
