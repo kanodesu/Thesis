@@ -4,8 +4,8 @@ Repo for MS Data Visualization, Parsons School of Design Thesis Project
 <br>
 
 ## Research Question:
-What is blind box, and why it goes viral? <br>
-What motivates the Z generation to buy it and collect it?
+#### What is blind box, and why it goes viral? <br>
+#### What motivates the Z generation to buy it and collect it?
 
 <br>
 
