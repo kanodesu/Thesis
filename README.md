@@ -3,9 +3,24 @@ Repo for MS Data Visualization, Parsons School of Design Thesis Project
 
 <br>
 
+I'm studying why buying blind boxes is a rapidly rising trend in China because I want to know what motivates young generation to buy it and collect it even they don't know what's inside in order to introduce this phenomenon to my audience.
+
+<br>
+
 ## Research Question:
 #### What is blind box, and why it goes viral? <br>
 #### What motivates the Z generation to buy it and collect it?
+
+<br>
+
+## Audience:
+* blind box lovers
+* gamers(blind boxes in video games)
+* collectors
+* general public
+* investors
+
+I expect users to be able to see the trend of blind box market, the economic growth, and some basic background knowledge/history of why this market becoming popular. Also, I want to explore the reasons and psychology behind the binnd box culture that why people want to collect it and can't stop buying it once they start?
 
 <br>
 
@@ -14,6 +29,7 @@ Repo for MS Data Visualization, Parsons School of Design Thesis Project
 #### Table of Contents
 #### Abstract
 #### Introduction
+#### Treatment:
 * What is Blind Box?
 * The Trend
 * The leading company: Pop Mart
