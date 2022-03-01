@@ -1,6 +1,11 @@
 ## Wireframe
 
 
+
+#### Hand drawn wireframe
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/Screen%20Shot%202022-03-01%20at%2001.02.16.png "sketch1")
+
+#### Refined wireframe
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/MacBook%20Pro%2014_%20-%201.png "sketch1")
 
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/MacBook%20Pro%2014_%20-%207.png "sketch1")
