@@ -56,6 +56,18 @@ To see more details, please visit [here](https://github.com/kanodesu/Thesis/tree
 <br>
 
 
+
+## Wireframe:
+I made the prototype in figma and Illustrator.
+
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/Screen%20Shot%202022-03-01%20at%2000.45.44.png "sketch1")
+
+To see more details, please visit [here](https://github.com/kanodesu/Thesis/tree/main/prototype).
+
+
+<br>
+
+
 ## Bibliography:
 
 Richard Whiddington. "With TOPTOY, MINISO Makes A Bid for the Art Toy Space." June 25,Available from https://jingculturecommerce.com/miniso-toptoy/. 
@@ -70,4 +82,6 @@ The Editors of Jing Travel. "How POP MART is Taking Domestic Appeal Global." Sep
 Xiaohongshu. "Https://Mp.Weixin.Qq.Com/s/8Tko3o9Va2pnleE8t0T8pQ." Nov16,Available from https://mp.weixin.qq.com/s/8Tko3o9Va2pnleE8t0T8pQ.
 
 Chen, Xiaolin. Research on Blind Boxes Consumers---Taking Pop Mart as an Example. Atlantis Press, 2021.
+
+https://www.chinaskinny.com/blog/china-blind-box-economy/
 
