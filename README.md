@@ -57,10 +57,10 @@ To see more details, please visit [here](https://github.com/kanodesu/Thesis/tree
 
 
 
-## Wireframe:
+## Prototype:
 I made the prototype in figma and Illustrator.
 
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/Screen%20Shot%202022-03-01%20at%2000.45.44.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/prototype/Screen%20Shot%202022-03-08%20at%2007.54.38.png "sketch1")
 
 To see more details, please visit [here](https://github.com/kanodesu/Thesis/tree/main/prototype).
 
