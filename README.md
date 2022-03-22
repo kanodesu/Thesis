@@ -89,5 +89,7 @@ SHOULD YOU PULL? GACHAPON, RISK, AND REWARD IN MOBILE GAMING. http://www.firstpe
 
 https://www.ifanr.com/1266364 
 
+http://www.woshipm.com/marketing/4077463.html
+
 
 
