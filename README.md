@@ -87,5 +87,7 @@ https://www.chinaskinny.com/blog/china-blind-box-economy/
 
 SHOULD YOU PULL? GACHAPON, RISK, AND REWARD IN MOBILE GAMING. http://www.firstpersonscholar.com/should-you-pull/, CHRISTINA M. SPIKER，SEPTEMBER 6, 2017
 
+https://www.ifanr.com/1266364 
+
 
 
