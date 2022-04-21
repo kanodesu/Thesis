@@ -8,7 +8,7 @@ I'm studying why buying blind boxes is a rapidly rising trend in China because I
 <br>
 
 ## Research Question:
-#### What is blind box, and why it goes viral? <br>
+#### What is blind box, and why did it go viral? <br>
 #### What motivates the Z generation to buy it and collect it?
 
 <br>
