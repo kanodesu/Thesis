@@ -15,7 +15,7 @@
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/prototype/MacBook%20Pro%2014_%20-%2027.png "sketch1")
 
 #### Revised prototype:
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/prototype/Screen%20Shot%202022-04-21%20at%2012.50.13.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/prototype/Screen%20Shot%202022-05-04%20at%2012.31.39.png "sketch1")
 
 
 
