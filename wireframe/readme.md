@@ -16,5 +16,3 @@
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/MacBook%20Pro%2014_%20-%206.png "sketch1")
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/MacBook%20Pro%2014_%20-%208.png "sketch1")
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/wireframe/MacBook%20Pro%2014_%20-%209.png "sketch1")
-
-#### Animated wireframe [here](https://github.com/kanodesu/Thesis/blob/main/wireframe/Screen%20Recording%202022-03-01%20at%2000.39.53.mov).
