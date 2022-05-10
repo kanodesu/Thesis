@@ -10,8 +10,8 @@ By Wenqin Lu | MS Data Visualization, Parsons School of Design Thesis Project | 
 preview image:
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
 screenshots:
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/1.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/2.png "sketch1")
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
 
 
