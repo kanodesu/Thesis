@@ -84,9 +84,9 @@ To see more details, please visit [here](https://github.com/kanodesu/Thesis/tree
 preview image:
 ![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
 screenshots:
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
-![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/2.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/4.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/5.png "sketch1")
 
 <br>
 
