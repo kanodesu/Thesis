@@ -5,6 +5,11 @@ Repo for MS Data Visualization, Parsons School of Design Thesis Project
 
 I'm studying why buying blind boxes is a rapidly rising trend in China because I want to know what motivates young generation to buy it and collect it even they don't know what's inside in order to introduce this phenomenon to my audience.
 
+
+<br>
+
+[View Project here](https://kanodesu.github.io/Thesis/app/).
+
 <br>
 
 ## Research Question:
