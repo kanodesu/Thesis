@@ -75,6 +75,15 @@ To see more details, please visit [here](https://github.com/kanodesu/Thesis/tree
 
 <br>
 
+## Project Preview: 
+preview image:
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
+screenshots:
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
+![sketch1](https://github.com/kanodesu/Thesis/blob/main/preview.png "sketch1")
+
+<br>
 
 ## Bibliography:
 
