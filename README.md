@@ -39,12 +39,14 @@ I expect users to be able to see the trend of blind box market, the economic gro
 * The Trend
 * The leading company: Pop Mart
 * Comparison with Art Toys
-* Virtual Blind Box
 * Why buying it?
 * The psychology behind Blind Box
+#### Data and Methodology
+* Data Source
+* Design Decisions
 #### Conclusion
-#### Appendix
 #### Bibliography
+#### Appendix
 
 
 <br>
