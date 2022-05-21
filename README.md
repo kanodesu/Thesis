@@ -97,17 +97,28 @@ screenshots:
 ## Bibliography:
 
 Richard Whiddington. "With TOPTOY, MINISO Makes A Bid for the Art Toy Space." June 25,Available from https://jingculturecommerce.com/miniso-toptoy/.
+
 Richard Whiddington. "How POP MART Dominated the Chinese Art Toy Market in 2020." April 8,Available from https://jingculturecommerce.com/pop-mart-2020-annual-report/.
+
 Chloe Yorke. "The Unstoppable Boom of Art Toys." December 8,Available from https://jingculturecommerce.com/the-unstoppable-boom-of-art-toys/.
+
 The Editors of Jing Travel. "How POP MART is Taking Domestic Appeal Global." September 29,Available from https://jingculturecommerce.com/how-pop-mart-is-taking-domestic-appeal-global/.
+
 Xiaohongshu. “Can you ‘Play’?”, "Https://Mp.Weixin.Qq.Com/s/8Tko3o9Va2pnleE8t0T8pQ." Nov. 16, 2020, Available from https://mp.weixin.qq.com/s/8Tko3o9Va2pnleE8t0T8pQ. 
+
 Intellectual Property Definition, “https://www.investopedia.com/terms/i/intellectualproperty.asp#:~:text=Intellectual%20property%20is%20owned%20and,trademarks%2C%20patents%2C%20and%20copyrights ”, Investopedia
+
 Chen, Xiaolin. Research on Blind Boxes Consumers---Taking Pop Mart as an Example. Atlantis Press, 2021.
+
 Simon Chen, “China’s Blind Box Economy”, June 9, 2020, Available from https://www.chinaskinny.com/blog/china-blind-box-economy/ 
+
 SHOULD YOU PULL? GACHAPON, RISK, AND REWARD IN MOBILE GAMING. http://www.firstpersonscholar.com/should-you-pull/, CHRISTINA M. SPIKER，SEPTEMBER 6, 2017
+
 2020 Annual Report, POP MART International Group Limited, Available from https://global.popmart.com/pages/investor-relations-1?page=1 
+
 Wenyu. "Blind Box: Is it a Toy for Adults, Or an "IQ Tax" for Young People?" September 30,Available from https://www.ifanr.com/1266364 
 http://www.woshipm.com/marketing/4077463.html
+
 Doreen Yingxiaopai. "The Blind Box is Popular all Over the Internet, Why?" August 13, 2021,Available from https://posts.careerengine.us/p/61192057e43288619d9d575c 
 
 Forbes China. "Toys for Big Kids: A $100 Billion Business." July 22, 2019, Available from http://www.forbeschina.com/entrepreneur/43786 
